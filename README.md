@@ -1,5 +1,5 @@
 My Build
-- OS: macOS Catalina 10.15.7 (19H15)
+- OS: macOS Big Sur 11.0.1 (20B29)
 - CPU: Intel Core i5-10400
 - RAM: 2 x ADATA Premier 8GB DDR4 2666MHz AD4U266638G19-B
 - MB: MSI B460M-Pro VDH WIFI
@@ -12,8 +12,8 @@ My Build
 - SMBIOS: iMac20,1
 
 What's not working
-- WLAN & Bluetooth (No drivers)
+- WLAN & Bluetooth (Drivers TBT)
 
 macOS Screenshot
 
-![macos](https://i.ibb.co/wCvSPXC/Screenshot-2020-09-28-at-17-41-45.jpg)
+![macos](https://github.com/hpstuff/MSI-B460M-PRO-VDH-WIFI-Hackintosh/blob/master/image.png?raw=true)
