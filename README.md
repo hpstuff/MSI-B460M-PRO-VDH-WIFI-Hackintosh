@@ -10,9 +10,10 @@ My Build
 - WLAN & Bluetooth: Intel® Wireless AC 3168, Bluetooth 4.2
 - OpenCore Version: 0.6.3
 - SMBIOS: iMac20,1
+- WLAN & Bluetooth (With AirportItlwm 1.2.0-alpha)
 
 What's not working
-- WLAN & Bluetooth (Drivers TBT)
+- AirDrop
 
 macOS Screenshot
 
